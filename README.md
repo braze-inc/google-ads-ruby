@@ -1,3 +1,5 @@
+# This Forked Gem will be deleted by end of February, 2022, because our platform code is now using the latest version of othe fficial gem.
+
 # Google Ads Client Library for Ruby
 
 `google-ads-googleads` uses [Google API extensions][google-gax] to provide an
